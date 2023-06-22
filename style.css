@@ -1,0 +1,10 @@
+#video{
+    width: 100%;
+    height: 500px;
+    border: none;
+}
+.deign{
+    border: 1px solid lightgrey;
+    width: 100%;
+    margin: 20px;
+}
